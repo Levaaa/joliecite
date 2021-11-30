@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<init>
+    <Evenement>
+        <Concert>
+            <artiste>Ultra Vomit</artiste>
+        </Concert>
+        <PieceTheatre>
+            <nom>Antigone</nom>
+            <intervalle>3</intervalle>
+        </PieceTheatre>
+    </Evenement>
+    <Salle>
+        <nom>Accord Hotel Arena</nom>
+        <date>01/01/21</date>
+        <horaire>19h00</horaire>
+        <capacite>20300</capacite>
+    </Salle>
+    <Salle>
+        <nom>Arkea Arena</nom>
+        <date>01/04/21</date>
+        <horaire>21h00</horaire>
+        <capacite>11300</capacite>
+    </Salle>
+</init>
